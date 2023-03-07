@@ -4,7 +4,7 @@ Website for medals store.
 1. use "cd medals" to get in to level is treehouse:~/workspace/medals$
 2. git remote add origin https://tengyuancheng@github.com : to add a new origin for remote usage
 3. "ctrl +L " to fresh the terminal interface
-4. gi push -u origin master  (git push changes the repo without warning)
+4. git push -u origin master  (git push changes the repo without warning)
 
 -----------***************---------------
   -u : stands for upstream, a source of a river lies
